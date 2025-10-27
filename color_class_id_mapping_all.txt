@@ -1,0 +1,30 @@
+Color Class ID Mapping
+
+Class ID: 0 -> BGR Color: (0, 0, 255)
+Class ID: 1 -> BGR Color: (0, 220, 220) #Speed limit sign
+Class ID: 2 -> BGR Color: (30, 170, 250) #Traffic light
+Class ID: 3 -> BGR Color: (32, 11, 119)
+Class ID: 4 -> BGR Color: (35, 142, 107) #Tree
+Class ID: 5 -> BGR Color: (50, 120, 170) #Miscellaneous/Restaurant outdoor seating/Trash can
+Class ID: 6 -> BGR Color: (50, 234, 157) #Road sign
+Class ID: 7 -> BGR Color: (60, 20, 220) #Person
+Class ID: 8 -> BGR Color: (70, 70, 70) #Building
+Class ID: 9 -> BGR Color: (80, 90, 55) #Mountain
+Class ID: 10 -> BGR Color: (128, 64, 128) #Road
+Class ID: 11 -> BGR Color: (142, 0, 0) #Vehicle
+Class ID: 12 -> BGR Color: (153, 153, 153) #Lamp post
+Class ID: 13 -> BGR Color: (153, 153, 190) #Fence
+Class ID: 14 -> BGR Color: (156, 102, 102) #Wall
+Class ID: 15 -> BGR Color: (160, 190, 110) #Planter/Bus stop/Vending machine
+Class ID: 16 -> BGR Color: (180, 130, 70) #Sky
+Class ID: 17 -> BGR Color: (180, 165, 180)
+Class ID: 18 -> BGR Color: (232, 35, 244) #Sidewalk
+Class ID: 19 -> BGR Color: (100, 100, 150) #Bridge
+Class ID: 20 -> BGR Color: (0, 0, 0)
+Class ID: 21 -> BGR Color: (150, 60, 45) #Lake
+Class ID: 22 -> BGR Color: (70, 0, 0)
+Class ID: 23 -> BGR Color: (230, 0, 0) #Motorcycle
+Class ID: 24 -> BGR Color: (152, 251, 152) #Grass
+Class ID: 25 -> BGR Color: (81, 0, 81) #Drain/Gutter
+Class ID: 26 -> BGR Color: (100, 60, 0) #Minibus
+Class ID: 27 -> BGR Color: (140, 150, 230)
